@@ -4,7 +4,7 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
-COPY .//.csproj ./
+COPY ./*/*.csproj ./
 RUN dotnet restore ./ApiDigitalGamesMx.csproj
 COPY ./*/ApiProducts.Library.csproj ./
 RUN dotnet restore ./ApiProducts.Library.csproj
