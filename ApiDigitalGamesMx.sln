@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDigitalGamesMx", "ApiDigitalGamesMx\ApiDigitalGamesMx.csproj", "{ECD18C35-81DA-41D3-A254-44F551F2DE05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiProducts.Library", "ApiProducts.Library\ApiProducts.Library.csproj", "{A0A9F1D5-F9AD-4FEA-A4C6-92698F2DE78D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD18C35-81DA-41D3-A254-44F551F2DE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD18C35-81DA-41D3-A254-44F551F2DE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD18C35-81DA-41D3-A254-44F551F2DE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD18C35-81DA-41D3-A254-44F551F2DE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A9F1D5-F9AD-4FEA-A4C6-92698F2DE78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A9F1D5-F9AD-4FEA-A4C6-92698F2DE78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A9F1D5-F9AD-4FEA-A4C6-92698F2DE78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A9F1D5-F9AD-4FEA-A4C6-92698F2DE78D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D0EECF7-1E62-4F40-BD13-FFCC0427090B}
+	EndGlobalSection
+EndGlobal
